@@ -124,7 +124,7 @@ AVERAGE(All_Data[Total])
 
 ## Dashboard Screenshots
 
-Screenshots
+Dashboard_Screenshots
 
 ---
 
