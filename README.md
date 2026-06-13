@@ -124,7 +124,14 @@ AVERAGE(All_Data[Total])
 
 ## Dashboard Screenshots
 
-Dashboard_Screenshots
+Summary Dashboard
+Summary_Page.png
+
+Detailed Dashboard
+Detailed_View.png
+
+Tooltip Dashboard
+Tooltip_Page.png
 
 ---
 
